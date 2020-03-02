@@ -1,6 +1,2 @@
-1
-orange
-3
-mikan
-orange
-apple
+10 3
+5 1 3 2 4 1 1 2 3 4
